@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito Sans', serif;
+}
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+}
+/*Start --Header--*/
+.nav-top{
+    display: flex;
+    margin-top: 57px;
+    align-items: center;
+}
+.nav-text-n{
+    margin-left: 250px;
+}
+.nav-text{
+    padding-right: 50px;
+    font-weight: 400;
+    color: #5C5555;
+    text-decoration: none;
+}
+.nav-text:hover{
+    color: #2c2929;
+    font-weight: 700;
+}
+.nav-text-active{
+    color: #FF5202;
+    font-weight: 700;
+}
+.sing-button-block{
+    margin-left: 100px;
+}
+.sing-button{
+    height: 59px;
+    width: 151px;
+    border: 1px black solid;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+/*END --- HEADER--*/
+
+
+/*Start --MAIN--*/
+.wrp{
+    display:flex;
+}
+.base-left{
+    margin-top: 110px;
+    max-width: 640px;
+}
+.big-text{
+    font-size: 64px;
+    font-weight: bold;
+}
+.text-af-big{
+    font-size: 24px;
+    font-weight: 100;
+    padding-left: 10px;
+    border-left: 1px #1A1A1A solid;
+}
+.btn-centr{
+    margin-top: 40px;
+}
+.center-button{
+    width: 180px;
+    height: 64px;
+    background-color: #FF5202;
+    color: white;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+}
+.center-button-nx{
+    background-color: transparent;
+    color: #1A1A1A;
+    border: 1px #1A1A1A solid;
+}
+.base-left{
+    margin-top: 110px;
+    max-width: 640px;
+}
+.arrow-left{
+    position: absolute;
+    transform: translate(450px,110px);
+}
+.base-right{
+    max-width: 530px;
+    max-height: 522px;
+}
+/*END --MAIN--*/
+
+.bg{
+    background-color: #262543;
+    height: 250px;
+    padding-top: 30px;
+}
+.textmsg{
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+}
+.textsmall{
+    max-width: 336px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.oblock{
+    display: inline-block;
+}
+.tblock{
+    display: inline-block;
+    max-width: 207px;
+    max-height: 180px;
+    margin-left: 50px;
+}
+.img-teacher{
+    padding-bottom: 15px;
+}
+.textteach{
+    padding-top: 5px;
+    font-size: 16px;
+}
