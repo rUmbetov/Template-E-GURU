@@ -1,1 +1,1 @@
-Оригинальный макет шаблона:  <a href="https://www.figma.com/file/pZTYQW47n8jaXNxdvuub6A/Free-Landing-Page-Design-(Community)?type=design&node-id=5-122&mode=design&t=GU6vMtZtciRniwwF-0">ТУТ</a>
+Оригинальный макет шаблона:  <a href="https://www.figma.com/file/GdjIhK8Lqg9XtoQFYwPmUl/E-learning-Educational-Website-Landing-Page-UI-UX-Design-With-Responsive-Version-(Community)?type=design&node-id=0-1&mode=design&t=L0vdfG6k6RLCgIAU-0">ТУТ</a>
